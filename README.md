@@ -20,7 +20,7 @@ Bot sẽ tự động kết nối và chạy ngầm trên máy tính của bạn
 #### 1. Tra cứu & Theo dõi đơn hàng:
 * `/start` hoặc `/help` : Xem hướng dẫn
 * **Thêm đơn theo dõi**:
-  * Đơn SPX: `/add SPXVN063015366786 [ghi chú]` *(hoặc chỉ cần gửi trực tiếp mã `SPXVN...` vào khung chat)*
+  * Đơn SPX: `/add SPXVN063015366786 [ghi chú]`
   * Đơn GHN: `/add ghn GY8RA4EL 0987654321 [ghi chú]` *(kèm SĐT nhận)*
   * Đơn J&T: `/add jnt 862195772225 9613 [ghi chú]` *(kèm 4 số cuối SĐT)*
 * `/list` : Xem danh sách đơn đang theo dõi

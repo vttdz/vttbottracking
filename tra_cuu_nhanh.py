@@ -7,7 +7,7 @@ Cách dùng:
     python tra_cuu_nhanh.py jnt 862195772225 9613
 """
 import sys
-from app_local import track_order
+from tracking_core import track_order
 
 def main():
     if len(sys.argv) < 2:
